@@ -1,2 +1,1 @@
-# Project_0000
-Project 0 of 1000
+# 1000 Python Projects in 1,000 Days
