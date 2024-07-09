@@ -34,6 +34,19 @@ The **100 Python Project Challenge** is an ambitious program designed for a team
 
 ## Project List
 
+### Quick Links
+- [Project 1-10](#project-1-10-basic-data-manipulation-and-analysis)
+- [Project 11-20](#project-11-20-intermediate-financial-calculations-and-analysis)
+- [Project 21-30](#project-21-30-advanced-analysis-and-visualization)
+- [Project 31-40](#project-31-40-financial-modeling-and-machine-learning)
+- [Project 41-50](#project-41-50-advanced-financial-modeling-and-simulations)
+- [Project 51-60](#project-51-60-deep-learning-and-advanced-financial-techniques)
+- [Project 61-70](#project-61-70-advanced-quantitative-finance-techniques)
+- [Project 71-80](#project-71-80-optimization-and-risk-management)
+- [Project 81-90](#project-81-90-integrating-advanced-techniques)
+- [Project 91-100](#project-91-100-capstone-projects)
+- [Project 101](#project-101-capstone-project)
+
 ### Project 1-10: Basic Data Manipulation and Analysis
 
 1. **Project 1:** Load and clean financial data.
